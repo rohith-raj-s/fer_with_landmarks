@@ -1,2 +1,2 @@
-# fer_with_landmarks
+# Facial Expression Recognition using 68 facial landmark points
  
